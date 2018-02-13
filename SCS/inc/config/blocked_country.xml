@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCS>
+    <blocked_country_code>IT,FR</blocked_country_code> <!-- example : <blocked_country_code>FR,IT</blocked_country_code> add , for insert another -->
+</SCS>
